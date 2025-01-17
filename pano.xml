@@ -332,7 +332,7 @@
       <hotspot id="Point06" url="" description="" target="_blank" tilt="-1.3" skinid="display-주방오픈 낮" pan="-0.14" title=""/>
     </hotspots>
     <media>
-      <image popbackmode="0" rotx="0.000" fov="130.660" clickmode="0" stretch="1.000" rotz="0.000" handcursor="0" tilt="-2.340" roty="0.000" height="5552" id="주방문오픈" width="5552" pan="0.030" hidepinned="0">
+      <image popbackmode="0" rotx="0.000" fov="134.660" clickmode="0" stretch="1.000" rotz="0.000" handcursor="0" tilt="-1.040" roty="0.000" height="5552" id="주방문오픈" width="5552" pan="-1.060" hidepinned="0">
         <source url="media/image.png"/>
       </image>
     </media>
@@ -873,7 +873,7 @@
       <hotspot id="Point06" url="" description="" target="_blank" tilt="-1.3" skinid="display-주방오픈 낮" pan="-0.14" title=""/>
     </hotspots>
     <media>
-      <image popbackmode="0" rotx="0.000" fov="130.660" clickmode="0" stretch="1.000" rotz="0.000" handcursor="0" tilt="-2.340" roty="0.000" height="5552" id="주방문오픈" width="5552" pan="0.030" hidepinned="0">
+      <image popbackmode="0" rotx="0.000" fov="133.660" clickmode="0" stretch="1.000" rotz="0.000" handcursor="0" tilt="-1.040" roty="0.000" height="5552" id="주방문오픈" width="5552" pan="-1.060" hidepinned="0">
         <source url="media/image.png"/>
       </image>
     </media>
