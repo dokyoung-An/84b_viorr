@@ -1484,7 +1484,6 @@
       <hotspot tilt="-21.69" id="Point02" title="복도4" target="" skinid="ht_node" pan="-227.81" description="" url="{node45}"/>
       <hotspot tilt="-20.97" id="Point03" title="복도5" target="" skinid="ht_node" pan="-253.49" description="" url="{node46}"/>
       <hotspot tilt="-15.28" id="Point04" title="테라스" target="" skinid="ht_node" pan="-102.63" description="" url="{node41}"/>
-      <hotspot tilt="-6.39" id="Point05" title="" target="_blank" skinid="display-선반" pan="-34.77" description="" url=""/>
       <hotspot tilt="1.15" id="Point06" title="" target="_blank" skinid="VIEW-서" pan="-1.71" description="" url=""/>
     </hotspots>
     <media/>
